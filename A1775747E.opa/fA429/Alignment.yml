@@ -1,0 +1,19 @@
+segment_sources:
+  IA4162606:
+    type: origin_type
+    relation: translation
+    language: en
+  IDFFFF9F0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  a963255e325644789342f2c2cb427d6c:
+    IA4162606: 22b9a93c661345cc996a299da9cbc734
+    IDFFFF9F0: 57f6925b0b414936a146081ebb2a75b4
+  429725d2cff644bab39afaa2b71b8077:
+    IA4162606: 382b790957334dfcaf63f27839c1518f
+    IDFFFF9F0: faa24414c16b47188168b673259d95d7
+  f2f677c7a67d42c4ab9f03bbe70d136d:
+    IA4162606: 273b19106ab34679b70af84ed2ecf9fa
+    IDFFFF9F0: 76c2616ed6f447a09a698294d7ff74c9
